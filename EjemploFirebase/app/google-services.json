@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1035983551874",
+    "firebase_url": "https://konradlorenz-2018-506152036.firebaseio.com",
+    "project_id": "konradlorenz-2018-506152036",
+    "storage_bucket": "konradlorenz-2018-506152036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035983551874:android:e4aad2027d3fafe1",
+        "android_client_info": {
+          "package_name": "co.edu.konradlorenz.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035983551874-2iam17chlq65cjtvq5v3oo5blfu5l0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKJctaXecri4Y44844MVAHI5uyca0y1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035983551874:android:46073b3caa9506cb",
+        "android_client_info": {
+          "package_name": "com.karcavi.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035983551874-2iam17chlq65cjtvq5v3oo5blfu5l0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKJctaXecri4Y44844MVAHI5uyca0y1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
